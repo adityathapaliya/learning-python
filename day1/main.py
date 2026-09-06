@@ -64,3 +64,20 @@
 # thislist.extend(tropical)
 # print(thislist)
 
+#clever 
+# x = ("apple", "banana", "cherry")
+# y = list(x)
+# y[1] = "kiwi"
+# x = tuple(y)
+
+# print(x)
+
+
+#unpacking tuple
+# fruits = ("apple", "banana", "berry")
+
+# (red, yellow, blue) = fruits
+
+# print(red)
+# print(yellow)
+# print(blue)
