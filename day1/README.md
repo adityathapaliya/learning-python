@@ -32,4 +32,4 @@ Here’s what I learned today:
 It may be just the beginning, but every line of code is a step forward. 
 
 Looking forward to learning more, practicing consistently, and building projects along the way.
-hashtag#Python hashtag#PythonLearning hashtag#100DaysOfCode hashtag#CodingJourney hashtag#Programming hashtag#LearningToCode hashtag#Day1 hashtag#DeveloperJourney
+#Python #PythonLearning #100DaysOfCode #CodingJourney #Programming #LearningToCode #Day1 #DeveloperJourney
